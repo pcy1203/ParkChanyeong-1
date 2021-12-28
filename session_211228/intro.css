@@ -1,0 +1,36 @@
+.main-sec {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-img {
+  width: 400px;
+}
+
+.name {
+  margin-top: 50px;
+  color: orange;
+  font-size: 30px;
+}
+
+ul {
+  width: 400px;
+  height: 250px;
+  background-color: beige;
+}
+
+li {
+  color: rgb(221, 146, 59);
+}
+
+th {
+}
+
+.hr {
+  width: 500px;
+  height: 1px;
+  background-color: black;
+}
